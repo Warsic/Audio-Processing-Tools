@@ -69,7 +69,7 @@ soundfile numpy librosa
 - **target_depth:** 目标位深度（8, 16, 24, 32）
 
 ## check_cd_size.py
-统计目录内所有 wav 文件刻录成 CD 光盘需要的总空间及标准 CD 光盘（700MB）数量，目录中文件需符合 CD 格式（44100kHz，16bit）。
+统计目录内所有 wav 文件刻录成 CD 光盘需要的总空间及标准 CD 光盘（700MB）数量，目录中文件需符合 CD 格式（44100Hz，16bit）。
 
 ### 依赖
 soundfile
